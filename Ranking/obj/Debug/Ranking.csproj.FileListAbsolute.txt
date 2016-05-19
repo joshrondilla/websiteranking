@@ -1,0 +1,7 @@
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\bin\Ranking.dll.config
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\bin\Ranking.dll
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\bin\Ranking.pdb
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\obj\Debug\Ranking.csprojResolveAssemblyReference.cache
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\obj\Debug\Ranking.dll
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\obj\Debug\Ranking.pdb
+C:\Users\joshua.rondilla.GLOBALAD\Desktop\Ranking\Ranking\bin\Microsoft.Practices.Unity.dll
